@@ -123,3 +123,11 @@ img {
     margin: 0 20px;
   }
 }
+.contact-page {
+  background-color: rgb(218, 255, 243);
+}
+.contact-page {
+  h1 {
+    font-size: 100px;
+  }
+}
